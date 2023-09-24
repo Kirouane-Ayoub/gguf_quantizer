@@ -59,3 +59,5 @@ quantization.run(MODEL_ID=MODEL_ID , QUANTIZATION_METHODS = ["q4_k_m"] )
 # You can use more than one type Example : ["q4_k_m", "q5_k_m"]
 ```
 ![Screenshot at 2023-09-22 18-07-27](https://github.com/Kirouane-Ayoub/gguf_quantizer/assets/99510125/162c969c-6659-485b-aa6d-b8198bc5e9b8)
+
++ **Author** : Kirouane Ayoub
